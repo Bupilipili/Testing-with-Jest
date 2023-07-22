@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString');
+const reverseString = require ('./reverseString');
 
 test('reverseString reverses the input string correctly', () => {
   const inputString = 'Hello, World!';
